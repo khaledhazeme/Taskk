@@ -21,7 +21,6 @@ added them already in   pom.xml
 2- Also there is a class for data driven  (DataDrivenManger)
 this class it should have to read test data form file, but for this demo 
 i just added one test case.
-also it keeps selected item deatil to check against it when verify item placed in account.
 
 3- ExtentReport.html file will be generated after you finish runing test.
 
